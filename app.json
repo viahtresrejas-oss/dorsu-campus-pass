@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "DOrSU Campus Pass",
+    "slug": "dorsu-campus-pass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
